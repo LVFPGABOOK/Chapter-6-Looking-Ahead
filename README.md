@@ -28,7 +28,7 @@
 [23] Waterman, A., et al., The RISC-V Instruction Set Manual, Volume I: Base User Level ISA, EECS Department, UC Berkeley, Tech. Rep. UCB/EECS-2011-62, Vol. 116, 2011, http://www.icsi.berkeley.edu/pubs/arch/EECS-2011-62.pdf.  
 [24] Ryzhyk, L., “The ARM Architecture,” Chicago University, Illinois, EUA, 2006, https://www.researchgate.net/profile/Leonid_Ryzhyk/publication/228392292_The_ARM_Architecture/links/554b73c40cf29f836c96b2b7.pdf.  
 [25] Gray, J., “GRVI Phalanx,” January 5, 2016, https://riscv.org//wp-content/uploads/2016/01/Tues1215-RISC-V-Gray-GRVI-Phalanx-final-final.pdf.  
-[26] Gray, J., “2GRVI Phalanx: W.I.P. Towards Kilocore RISC-V® FPGA Accelerators with HBM2 DRAM,” IEEE Hot Chips 2019 Conference poster, Bellevue, WA, 2019, https://www.hotchips.org/hc31/HC31.GrayResearch.JanGray.v01.pdf.  
+[26] Gray, J., “2GRVI Phalanx: W.I.P. Towards Kilocore RISC-V® FPGA Accelerators with HBM2 DRAM,” IEEE Hot Chips 2019 Conference poster, Bellevue, WA, 2019, https://old.hotchips.org/hc31/HC31.GrayResearch.JanGray.v01.pdf.  
 [27] Kathail, V., “Xilinx Vitis Unifi ed Software Platform,” The 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, Seaside, CA, 2020.  
 [28] Kova, M., et al., “How Europe Is Preparing Its Core Solution for Exascale Machines and a Global, Sovereign, Advanced Computing Platform,” Mathematical and Computational Applications, Vol. 25, No. 3, 2020, p. 46.  
 [29] Griffi ths, H., et al., Stimson’s Introduction to Airborne Radar, 3rd ed., Edison, NJ: SciTech Publishing, 2014.  
