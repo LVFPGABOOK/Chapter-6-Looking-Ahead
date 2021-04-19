@@ -4,8 +4,7 @@
 *References*  
 
 [1] Skolnik, M. I., Introduction to Radar Systems, 3rd ed., Boston, MA: McGraw Hill, 2001.  
-[2] Mankins, J. C., “Technology Readiness Levels,” White Paper, April 6, 1995, https://aiaa.kavi.com/apps/group_public/download.php/2212/TRLs_Mankins-
-Paper_1995.pdf.  
+[2] Mankins, J. C., “Technology Readiness Levels,” White Paper, April 6, 1995, https://aiaa.kavi.com/apps/group_public/download.php/2212/TRLs_Mankins-Paper_1995.pdf.  
 [3] Taleb, N. N., The Black Swan: The Impact of the Highly Improbable, New York: Random House, 2007.  
 [4] Koch, D., FPGAs for Software Programmers, New York: Springer Science+Business Media, 2015.  
 [5] Goldsmith, J., et al., “Control and Visualisation of a Software Defined Radio System on the Xilinx RFSoC Platform Using the PYNQ Framework,” IEEE Access, Vol. 8, 2020, pp. 129012–129031.  
