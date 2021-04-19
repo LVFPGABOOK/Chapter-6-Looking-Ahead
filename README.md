@@ -16,7 +16,7 @@
 [11] Chao, C., B. Saeta, and Google. “IEEE Hot Chips 2019 Tutorial: Cloud TPU: Codesigning Architecture and Infrastructure,” 2019, https://old.hotchips.org/hc31/HC31_T3_Cloud_TPU_Codesign.pdf.  
 [12] Shalev, L., et al., “Supercomputing on Nitro in AWS Cloud,” IEEE Micro, 2020, pp. 1-1.  
 [13] Chung, E., et al., “Serving DNNs in Real Time at Datacenter Scale with Project Brainwave,” IEEE Micro, Vol. 38, No. 2, 2018, pp. 8–20.  
-[14] Wang, Y. E., G. -Y. Wei, and D. Brooks, “Benchmarking TPU, GPU, and CPU Platforms for Deep Learning,” arXiv preprint arXiv:1907.10701, 2019. https://arxiv.org/abs/1907.10701.  
+[14] Wang, Y. E., G. -Y. Wei, and D. Brooks, “Benchmarking TPU, GPU, and CPU Platforms for Deep Learning,” arXiv preprint arXiv:1907.10701, 2019. https://arxiv.org/abs/1907.10701 (see https://github.com/LVFPGABOOK/Chapter-3-Background-Technology/commit/ea5e134990e5f1892f74107c7311702310e24050).  
 [15] Khokhar, A. A., et al., “Heterogeneous Computing: Challenges and Opportunities,” Computer, Vol. 26, No. 6, 1993, pp. 18–27.  
 [16] Mittal, S., and J. S. Vetter, “A Survey of CPU-GPU Heterogeneous Computing Techniques,” ACM Comput. Surv., Vol. 47, No. 4, 2015, Article 69.  
 [17] Nane, R., et al., “A Survey and Evaluation of FPGA High-Level Synthesis Tools,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 35, No. 10, 2016, pp. 1591–1604.  
