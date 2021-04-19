@@ -12,7 +12,7 @@
 [7] Manz, B., “The RFSoC Upends the Design Paradigm,” The Journal of Electronic Defense, August 2019, pp. 20–24.  
 [8] Amazon, “F1 Instances: Run Custom FPGAs in the Amazon Web Services (AWS) Cloud,” https://aws.amazon.com/ec2/instance-types/f1/, 2017.  
 [9] Liguori, A., and Amazon, “IEEE Hot Chips 2019 Tutorial: The Nitro Project – Next Generation AWS Infrastructure,” 2019, https://old.hotchips.org/hc31/HC31_T1_AWS_Nitro_Hot_Chips_20190818-2.pdf.  
-[10] Chiou, D., et al., “IEEE Hot Chips 2019 Tutorial: Cloud Acceleration at Microsoft,” 2019, https://www.hotchips.org/hc31/HC31_T2_Microsoft_Carrie-ChiouChung.pdf.  
+[10] Chiou, D., et al., “IEEE Hot Chips 2019 Tutorial: Cloud Acceleration at Microsoft,” 2019, https://old.hotchips.org/hc31/HC31_T2_Microsoft_CarrieChiouChung.pdf.  
 [11] Chao, C., B. Saeta, and Google. “IEEE Hot Chips 2019 Tutorial: Cloud TPU: Codesigning Architecture and Infrastructure,” 2019, https://www.hotchips.org/hc31/HC31_T3_Cloud_TPU_Codesign.pdf.  
 [12] Shalev, L., et al., “Supercomputing on Nitro in AWS Cloud,” IEEE Micro, 2020, pp. 1-1.  
 [13] Chung, E., et al., “Serving DNNs in Real Time at Datacenter Scale with Project Brainwave,” IEEE Micro, Vol. 38, No. 2, 2018, pp. 8–20.  
